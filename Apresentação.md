@@ -1,7 +1,9 @@
 # Workshop - Kubernetes na Google Cloud Plataform
 
 **Autor: Márcio de Oliveira Jales Costa**
+
 **Data: 01/09/2018**
+
 **Duração: 3 horas**
 
 ## Objetivo
