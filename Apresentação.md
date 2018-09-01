@@ -8,7 +8,7 @@
 
 ## Objetivo
 
-Introduzir o espectador ao mundo *DevOps*, a nova cultura de operações em TI, e SRE (*Site Reliability Enginerrging*), uma ramificação do *DevOps*.
+Introduzir o espectador ao mundo *DevOps*, a nova cultura de operações em TI, e SRE (*Site Reliability Engineering*), uma ramificação do *DevOps*.
 
 Após, apresentar uma das mais importantes ferramentas atuais na provisão de aplicação web com alta disponibilidade, o **Kubernetes**, utilizando o ambiente *cloud* da **Google Cloud Plataform** (GCP).
 
