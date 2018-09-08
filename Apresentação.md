@@ -2,13 +2,23 @@
 
 **Autor: Márcio de Oliveira Jales Costa**
 
-**Data: 01/09/2018**
+**Data:**
 
 **Duração: 3 horas**
 
 **E-mail: marcio.dojcosta@gmail.com**
 
-# Motivação
+## Palestrante
+
+Márcio Jales, ex-aluno da UFRN, formado em 2017.1, em seu primeiro (tecnicamente, segundo) emprego no cargo de Site Reliability Engineer, na AppProva, Belo Horizonte.
+
+#### A empresa
+
+**AppProva** é uma companhia que conta com mais de 250 colaboradores, em franca expansão. Foi adquirida pela **Somos Educação** no ano passado que, por sua vez, foi adquirida pela **Kroton educacional**, maior empresa privada no mundo no ramo de educação.
+
+Suas soluções partem desde o ensino básico ao ensino superior, com plataformas digitais de preparação para o ENEM, OAB, ENADE, dentre outros, além de soluções integradas (digital + material pedagógico).
+
+## Motivação
 
 Em um passado não tão distante, equipes de operações de TI e de desenvolvimento eram "adversárias". Enquanto a primeira queria um sistemas altamente estável, com poucas mudanças que, inerentemente, trazem riscos, a segunda queria entregar novas funcionalidades o mais frequente possível. Além disso, testes e novas *releases* ocorriam apenas no final de ciclo de desenvolvimento. Assim, havia pouco *feedback* sobre a aplicação e a quantidade de funcionalidades tornavam sua implantação complexa (alto "débito técnico"). Com essa cultura, analistas e engenheiros de TI constantemente tinham seus trabalhos resumidos a "apagar incêndios".
 
