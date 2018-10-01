@@ -80,3 +80,12 @@ O ambiente mais comum em demonstrações do Kubernetes é o **Minikube** um *clu
 É importante que sua conta esteja feita no dia do curso, pois isto **não será feito** lá. Apenas as configurações e ajustes necessários nela que serão demonstrados.
 
 **Qualquer dúvida, não hesite em entrar em contato pelo e-mail no topo do documento**
+
+## Leituras preliminares
+
+Esta leitura não é obrigatória. Porém, algumas tópicos interessantes para um melhor entendimento não serão abordados, como **containers com Docker**. Além disso, sempre é bom chegar com algum conhecimento preliminar, pois facilitará a assimilação durante o workshop.
+
+1. Kubernetes: Up and Running. Kelsey Hightower, Joe Beda, Brendan Burns, 2017. Capítulos 1 e 2
+2. Docker Overview. Disponível em https://docs.docker.com/engine/docker-overview/.
+3. A Beginner-Friendly Introduction to Containers, VMs and Docker. Disponível em https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
+4.  Site Reliability Engineering. Editado por by Betsy Beyer, Chris Jones, Jennifer Petoff e Niall Richard Murphy, 2016. Parte 1, capítulos 1 e 2. Disponível em https://landing.google.com/sre/book.html
